@@ -25,10 +25,6 @@ If you use the test engine in your own work, please cite our paper.
   publisher = {{IEEE}},
   year      = {2020},
   url       = {https://doi.org/10.1109/ICSTW50294.2020.00022},
-  doi       = {10.1109/ICSTW50294.2020.00022},
-  timestamp = {Tue, 18 Aug 2020 09:44:46 +0200},
-  biburl    = {https://dblp.org/rec/conf/icst/Lambers0W20.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org},
-  note = {<a href="https://hpi.de/fileadmin/user_upload/fachgebiete/giese/ToolsPublications/TAFGDB-a-most-2020.zip">Implementation</a>}
+  doi       = {10.1109/ICSTW50294.2020.00022}
 }
 ```
