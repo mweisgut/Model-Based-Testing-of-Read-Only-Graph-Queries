@@ -3,7 +3,6 @@ This repository references the proof-of-concept implementation of our model-base
 
 ### Artifacts
 - [A-MOST 2020 paper](https://ieeexplore.ieee.org/document/9155876)
-- [A-MOST 2020 presentation slides](./doc/amost20_presentation_public.pdf)
 - [proof-of-concept implementation](https://hpi.de/fileadmin/user_upload/fachgebiete/giese/ToolsPublications/TAFGDB-a-most-2020.zip)
 
 ### Contact Us
