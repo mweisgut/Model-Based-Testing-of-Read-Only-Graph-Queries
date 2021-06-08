@@ -1,5 +1,5 @@
 ### Model-Based Testing of Read Only Graph Queries
-This repository references the proof-of-concept implementation of our model-based testing approach for read-only queries supporting automated test creation, execution, and evaluation. It is planned to make the code of the test engine available here in the future.
+This repository references the proof-of-concept implementation of our model-based testing approach for read-only queries supporting automated test creation, execution, and evaluation.
 
 ### Artifacts
 - [A-MOST 2020 paper](https://ieeexplore.ieee.org/document/9155876)
